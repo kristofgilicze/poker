@@ -1,9 +1,5 @@
 <script lang="ts">
-    import { onMount } from 'svelte';
-    import Css from './Css.svelte';
-
-//import Css from './Css.svelte';
-
+import { onMount } from 'svelte';
 import { PokerGame } from './game/game'
 import { PokerState } from './game/PokerState.svelte';
 import PokerTable from './lib/PokerTable.svelte';
