@@ -26,5 +26,5 @@ let { log, scores }: { log: string[], scores: PlayerScore[] } = $props();
         {/each}
     </ul>
 
-    <a href="https://github.com/kristofgilicze/poker" class="block text-center bg-zinc-500 text-white font-bold py-2 px-4 rounded-lg mt-4">github - src</a>
+    <a target="_blank" href="https://github.com/kristofgilicze/poker" class="block text-center bg-zinc-500 text-white font-bold py-2 px-4 rounded-lg mt-4">github src link</a>
 </div>
